@@ -10,15 +10,18 @@ Production-ready n8n workflows by **MR Autify**: AI agents, Gmail automation, le
 - **CRM Systems:** Google Sheets and API-based CRM workflows
 - **Integrations:** Telegram, WhatsApp, WordPress, Webflow, REST APIs
 
-## Featured Workflows
+## Roadmap: Workflows in Development
 
-| Workflow | What it does | Tools |
+| Workflow | What it will do | Tools |
 |---|---|---|
-| Gmail AI Agent | Reads client emails, drafts replies, alerts on Telegram | n8n, Gmail, Telegram, Google Sheets |
-| Lead Gen Pipeline | Collects and cleans leads automatically | n8n, Google Sheets, APIs |
-| CRM Automation | Updates records and follow-ups automatically | n8n, Google Sheets |
+| RAG Knowledge Chatbot | Answers customer questions from a business's own documents | n8n, Vector DB (Supabase/Qdrant), OpenAI/Gemini |
+| Multi-Agent System | A manager agent assigns tasks to specialist AI agents | n8n, AI Agent nodes, Tools |
+| WhatsApp AI Sales Assistant | Replies to leads, qualifies them and books meetings | n8n, WhatsApp Business API, Google Calendar |
+| AI Voice Receptionist | Answers calls and logs the details in a CRM | n8n, Vapi/Retell, Google Sheets |
+| Invoice and Document Processing | Reads invoices with OCR and logs data automatically | n8n, OCR/AI, Google Sheets |
+| Social Content Autopilot | Generates, approves and schedules posts | n8n, AI, Social APIs |
 
-> Workflow JSON files and screenshots will be added soon. All credentials and client data are removed.
+> Workflow JSON files and screenshots are added as each build is completed. All credentials and client data are removed.
 
 ## How to Use
 
@@ -32,4 +35,4 @@ Production-ready n8n workflows by **MR Autify**: AI agents, Gmail automation, le
 - Fiverr: https://www.fiverr.com/sakib_mrautify
 - Website: https://mrautify.com
 - LinkedIn: https://www.linkedin.com/in/rahman-sakib
-- Email: mrsakib.hub@gmail.com
+- Email: sakib@mrautify.com
