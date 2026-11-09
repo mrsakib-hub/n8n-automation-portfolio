@@ -34,5 +34,5 @@ Production-ready n8n workflows by **MR Autify**: AI agents, Gmail automation, le
 
 - Fiverr:  https://www.fiverr.com/sakib_mrautify
 - Website: https://mrautify.com
-- LinkedIn:https://www.linkedin.com/in/rahman-sakib
+- LinkedIn: https://www.linkedin.com/in/rahman-sakib
 - Email:   sakib@mrautify.com
